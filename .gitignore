@@ -1,0 +1,11 @@
+# OS / editor cruft
+.DS_Store
+.idea/
+
+# Old working drafts, not part of the deposited analysis
+archive/
+graphs-old/
+
+# Oversized data file (2.5GB) — exceeds GitHub's 100MB hard limit.
+# Host this on Zenodo/Dryad and link its DOI from the README instead.
+neuropil_synapse_table_783_new.csv.gz
